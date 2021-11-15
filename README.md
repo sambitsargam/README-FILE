@@ -5,12 +5,14 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
 
 # Hi there! 👋
-- :school: I'm <a href="https://sambitsargam.github.io/">_Sambit Sargam Ekalabya_</a> currently a **INFORMATION TECHNOLOGY** student at <a href="https://nist.edu/">National Institute of Science and Technology, Berhampur</a>
+- :school: I'm <a href="https://sambitsargam.study/">_Sambit Sargam Ekalabya_</a> currently a **INFORMATION TECHNOLOGY** student at <a href="https://nist.edu/">National Institute of Science and Technology, Berhampur</a>
 - 💻 I'm currently learning Python and Web development with Cloud Technology also.
 - 🔭 I’m currently working on a  research project
+- 🌎 i'm working to develope a fluid stimulated website https://sambit.study
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
 - 😄 Pronouns: He/His
 
+- CHECK MY PORTFOLIO AT https://sambitsargam.study/
 
 <h1 align="center"> Tools and Technologies⚡</h1>
 <p align="center">
@@ -45,7 +47,7 @@
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sambitsargamthy&theme=react-dark&hide_border=true&area=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sambitsargam&theme=react-dark&hide_border=true&area=true">
   </a>
 </p>
 
