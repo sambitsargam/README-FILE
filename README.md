@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
 
 # Hi there! 👋
-- :school: I'm <a href="https://sambitsargam.study/">_Sambit Sargam Ekalabya_</a> currently a **INFORMATION TECHNOLOGY** student at <a href="https://nist.edu/" target="_blank" >National Institute of Science and Technology, Berhampur</a>
+- :school: I'm <a href="https://sambitsargam.study/" target="_blank">_Sambit Sargam Ekalabya_</a> currently a **INFORMATION TECHNOLOGY** student at <a href="https://nist.edu/" target="_blank" >National Institute of Science and Technology, Berhampur</a>
 - 💻 I'm currently learning Python and Web development with Cloud Technology also.
 - 🔭 I’m currently working on a  research project
 - 🌎 i'm working to develope a fluid stimulated website https://sambit.study
@@ -54,9 +54,10 @@
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/sambitsargam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sambitsargam2003@gmail.com?subject=Hello%20Sambit,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/sambitsargam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/myself_sambit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://medium.com/@sambitsargam"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sambitsargam/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sambitsargam2003@gmail.com?subject=Hello%20Sambit,%20From%20Github" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <ahref="https://twitter.com/sambitsargam" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/myself_sambit/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sambitsargam" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sambitsargam.study" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
