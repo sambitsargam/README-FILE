@@ -1,5 +1,8 @@
 <p align="center">
+  <a href="https://linktr.ee/sambitsargam">
   <img src="https://github.com/sambitsargam/sambitsargam/blob/main/sambitsargam.gif" alt="👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"/>
+    </a>
+
 </p>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
